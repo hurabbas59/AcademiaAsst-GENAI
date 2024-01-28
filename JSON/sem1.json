@@ -1,0 +1,72 @@
+[
+  {
+    "semester": "Semester - III",
+    "courses": [
+      {
+        "course code": "BSCS-401",
+        "course name": "Digital Computer Design Fundamentals",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-403",
+        "course name": "Assembly Language Programming",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-405",
+        "course name": "Mathematics - III (Linear Algebra & Analytical Geometry)",
+        "credit hrs": "3+0"
+      },
+      {
+        "course code": "BSCS-409",
+        "course name": "Materials, Semiconductors and Devices",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-411",
+        "course name": "Discrete Mathematics",
+        "credit hrs": "3+0"
+      },
+      {
+        "course code": "BSCS-413",
+        "course name": "Object Oriented Programming",
+        "credit hrs": "2+1"
+      }
+    ]
+  },
+  {
+    "semester": "Semester - IV",
+    "courses": [
+      {
+        "course code": "BSCS-402",
+        "course name": "Data Structures",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-404",
+        "course name": "System Design with Microprocessors",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-406",
+        "course name": "Mathematics - IV (Numerical Computing)",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-410",
+        "course name": "Electronics",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-412",
+        "course name": "Software Engineering and Project Management",
+        "credit hrs": "2+1"
+      },
+      {
+        "course code": "BSCS-414",
+        "course name": "Communication Skills and Report Writing",
+        "credit hrs": "3+0"
+      }
+    ]
+  }
+]

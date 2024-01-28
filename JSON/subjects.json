@@ -1,0 +1,388 @@
+[
+    {
+      "semester": "Semester - I",
+      "courses": [
+        {
+          "course code": "BSCS-301",
+          "course name": "Introduction to Computer Science - I",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-303",
+          "course name": "Mathematics - I (Calculus)",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-305",
+          "course name": "Statistics and Data Analysis",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-307",
+          "course name": "Physics - I (General Physics)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-309",
+          "course name": "English",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-311",
+          "course name": "Islamic Learning or Ethics",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-313",
+          "course name": "Pakistan Studies",
+          "credit hrs": "3+0"
+        }
+      ]
+    },
+    {
+      "semester": "Semester - II",
+      "courses": [
+        {
+          "course code": "BSCS-302",
+          "course name": "Introduction to Computer Science - II",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-304",
+          "course name": "Mathematics - II (Differential Equations)",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-306",
+          "course name": "Probability and Statistical Methods",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-308",
+          "course name": "Physics - II (Electricity and Magnetism)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-310",
+          "course name": "English",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-312",
+          "course name": "Urdu-Humanities",
+          "credit hrs": "3+0"
+        }
+      ]
+    },
+    {
+      "semester": "Semester - III",
+      "courses": [
+        {
+          "course code": "BSCS-401",
+          "course name": "Digital Computer Design Fundamentals",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-403",
+          "course name": "Assembly Language Programming",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-405",
+          "course name": "Mathematics - III (Linear Algebra & Analytical Geometry)",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-409",
+          "course name": "Materials, Semiconductors and Devices",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-411",
+          "course name": "Discrete Mathematics",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-413",
+          "course name": "Object Oriented Programming",
+          "credit hrs": "2+1"
+        }
+      ]
+    },
+    {
+      "semester": "Semester - IV",
+      "courses": [
+        {
+          "course code": "BSCS-402",
+          "course name": "Data Structures",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-404",
+          "course name": "System Design with Microprocessors",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-406",
+          "course name": "Mathematics - IV (Numerical Computing)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-410",
+          "course name": "Electronics",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-412",
+          "course name": "Software Engineering and Project Management",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-414",
+          "course name": "Communication Skills and Report Writing",
+          "credit hrs": "3+0"
+        }
+      ]
+    },
+    {
+      "semester": "Semester - V",
+      "courses": [
+        {
+          "course code": "BSCS-501",
+          "course name": "Theory of Computer Science",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-503",
+          "course name": "Data Communication and Networking - I",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-505",
+          "course name": "Stochastic Processes and Inference (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-507",
+          "course name": "Operations Research - I (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-509",
+          "course name": "Database Systems",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-511",
+          "course name": "Computer Organization and Architecture",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-513",
+          "course name": "Advanced Numerical Analysis (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-515",
+          "course name": "Artificial Intelligence",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-517",
+          "course name": "System Analysis & Design (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-519",
+          "course name": "Business Programming Language (Optional)",
+          "credit hrs": "2+1"
+        }
+      ]
+    },
+    {
+      "semester": "Semester - VI",
+      "courses": [
+        {
+          "course code": "BSCS-502",
+          "course name": "Concepts of Operating Systems",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-504",
+          "course name": "Compiler Construction - I",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-506",
+          "course name": "Modeling and Simulation (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-508",
+          "course name": "Operations Research - II (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-510",
+          "course name": "Microcomputer Design & Interfacing-I (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-512",
+          "course name": "Data Communication and Networking - II",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-514",
+          "course name": "Computer Graphics",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-520",
+          "course name": "Advanced Software Engineering",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-522",
+          "course name": "Expert Systems",
+          "credit hrs": "2+1"
+        }
+      ]
+    },
+    {
+      "semester": "Semester-VII and Semester-VIII",
+      "courses": [
+        {
+          "course code": "BSCS-601",
+          "course name": "Theory of Operating Systems",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-603",
+          "course name": "Compiler Construction - II",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-605",
+          "course name": "Advanced Computer Graphics (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-607",
+          "course name": "Financial Accounting",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-609",
+          "course name": "Microcomputer Design & Interfacing-II (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-611",
+          "course name": "Parallel Computing (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-613",
+          "course name": "Management Information System",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-619",
+          "course name": "*Thesis",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-621",
+          "course name": "Topics of Current. Introduction to Machine and recent trends in Software Development. (Optional)",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-625",
+          "course name": "VLSI Design Techniques (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-631",
+          "course name": "Network Security and Cryptography (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-633",
+          "course name": "Internet Application Development (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-635",
+          "course name": "Data Warehousing and Data Mining (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-602",
+          "course name": "Operating System Case Study (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-604",
+          "course name": "Natural Language Processing",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-606",
+          "course name": "Distributed Database Systems",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-610",
+          "course name": "Design and Analysis of Algorithms",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-612",
+          "course name": "Financial Management",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-616",
+          "course name": "Multimedia Systems (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-618",
+          "course name": "Computational Linear Algebra (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-620",
+          "course name": "*Thesis",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-624",
+          "course name": "Project",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-632",
+          "course name": "Wireless Communication (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-634",
+          "course name": "Neural Networks and Fuzzy Logic (Optional)",
+          "credit hrs": "2+1"
+        },
+        {
+          "course code": "BSCS-636",
+          "course name": "Human Computer Interaction (Optional)",
+          "credit hrs": "3+0"
+        },
+        {
+          "course code": "BSCS-638",
+          "course name": "Remote Sensing and Geographic Information System (Optional)",
+          "credit hrs": "2+1"
+        }
+      ]
+    }
+  ]
+  
