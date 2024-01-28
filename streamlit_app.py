@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-#from your_backend_module import generate_outline, generate_exam, generate_content
 url = "http://127.0.0.1:7000/"
 def main():
     st.title("Acadamia Assistant")
@@ -11,14 +10,11 @@ def main():
         uploaded_file = st.file_uploader("Upload JSON file for course outline", type=["json"])
         
         if uploaded_file is not None:
-            # print(uploaded_file.name)
             payload = {
               "file":uploaded_file.name
             }
             
             response = requests.post(url=url+"generate_course_modules",json=payload)
-            # Call your backend function here
-            # generate_outline(outline_data)
             st.success("Course outline generated successfully!")
 
     # Function to generate exam for a given subject
@@ -74,9 +70,6 @@ def main():
           response = requests.post(url=url + "generate_content" , json=module_content_request_payload ) 
           
           
-
-          # generate_content(subject_name_content, course_type, semester)
-
           # Display success message
           st.success("Content generated successfully!")
 
