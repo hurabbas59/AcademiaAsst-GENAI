@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 class ExamCreator:
     
     def __init__(self,model_name='gpt-3.5-turbo',temperature=0,streaming=False):
-        OPENAI_API_KEY= "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"
+        OPENAI_API_KEY= ""
 
         self.model  = ChatOpenAI(
             openai_api_key=OPENAI_API_KEY,
