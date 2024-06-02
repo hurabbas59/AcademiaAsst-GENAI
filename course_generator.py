@@ -7,7 +7,7 @@ class CourseGenerator:
     
     def __init__(self,model_name='gpt-3.5-turbo-16k-0613',temperature=0,streaming=False):
         
-        OPENAI_API_KEY= "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"
+        OPENAI_API_KEY= ""
         self.model  = ChatOpenAI(
             openai_api_key=OPENAI_API_KEY,
             model_name=model_name,
